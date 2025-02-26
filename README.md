@@ -18,11 +18,7 @@ Project ini bertujuan untuk mengambil data post dari JSONPlaceholder API, melaku
 ---
 
 ## Arsitektur ETL
-```plaintext
-[JSONPlaceholder API] ---> [extract.py] ---> [transform.py] ---> [load.py] ---> [PostgreSQL]
-```
 
----
 ![ETL Diagram drawio](https://github.com/user-attachments/assets/0cc526c9-ca89-4aa8-be9e-5692be051572)
 
 
