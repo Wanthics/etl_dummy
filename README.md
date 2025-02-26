@@ -23,6 +23,8 @@ Project ini bertujuan untuk mengambil data post dari JSONPlaceholder API, melaku
 ```
 
 ---
+![ETL Diagram drawio](https://github.com/user-attachments/assets/0cc526c9-ca89-4aa8-be9e-5692be051572)
+
 
 ## Cara Menjalankan Project
 
@@ -30,7 +32,7 @@ Project ini bertujuan untuk mengambil data post dari JSONPlaceholder API, melaku
 - Pastikan **Python 3** dan **PostgreSQL** sudah terinstal.
 - Clone repositori ini:
   ```bash
-  git clone https://github.com/username/repo-name.git
+  git clone https://github.com/Wanthics/etl_dummy.git
   cd repo-name
   ```
 - Buat virtual environment:
